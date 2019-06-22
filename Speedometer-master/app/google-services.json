@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1037410200987",
+    "firebase_url": "https://gokart-f702b.firebaseio.com",
+    "project_id": "gokart-f702b",
+    "storage_bucket": "gokart-f702b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037410200987:android:f391d914a852ab0c",
+        "android_client_info": {
+          "package_name": "speed.mobiweb.testmotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037410200987-gm6stmif54jmc25qupd8nf0esquum5op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "speed.mobiweb.testmotion",
+            "certificate_hash": "7e6ccd6bcbf009b03993960a14c86bf26737fdda"
+          }
+        },
+        {
+          "client_id": "1037410200987-hs9pso5bgnutkjoih0nqoikrsvvhafv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-96yXsaqPYhU9l4SZVyeTB8cV9PRX78s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037410200987-hs9pso5bgnutkjoih0nqoikrsvvhafv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
